@@ -15,6 +15,16 @@ body{
     background-color:rgb(167, 152, 175);
 
 }
+h1{
+    font-size: 100px;
+    font-weight: 900;
+    background-image: url(https://rukminim2.flixcart.com/image/850/1000/kzzw5u80/poster/g/0/o/medium-spiderman-2-official-movie-on-good-quality-hd-quality-original-imagbvny3gsbwdfg.jpeg?q=20&crop=false);
+    background-size: cover;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip:text ;
+    color:transparent;
+}
 .container img{
     height:100%;
     width:100%;
